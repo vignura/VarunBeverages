@@ -1,2 +1,2 @@
 # VarunBeverages
-Analysis of Varun Beverages
+Screener Link: https://www.screener.in/company/VBL/consolidated/
